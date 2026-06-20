@@ -19,6 +19,9 @@
 ### Требования
 Python 3.10+, PySide6, NumPy, Matplotlib, numpy-stl
 
+## Системные требования для KCM.exe
+- Windows 10 или новее
+
 ---
 
 ## English
@@ -38,3 +41,6 @@ Python 3.10+, PySide6, NumPy, Matplotlib, numpy-stl
 
 ## Installation
 Download [KCM.exe from the latest Release](https://github.com/ser-a11y/KCM/releases/latest)
+
+## System Requirements for KCM.exe
+- Windows 10 or later
