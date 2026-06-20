@@ -35,3 +35,6 @@ Download KCM.exe from Releases or run `python main_window.py`
 
 ### Requirements
 Python 3.10+, PySide6, NumPy, Matplotlib, numpy-stl
+
+## Installation
+Download [KCM.exe from the latest Release](https://github.com/ser-a11y/KCM/releases/latest)
